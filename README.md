@@ -179,7 +179,7 @@ Project Link: [https://github.com/XaniXxable/Flask_testcases_visualation](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Flask_testcases_visualation](https://github.com/othneildrew/Best-README-Template)
+* [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
 
