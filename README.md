@@ -1,5 +1,5 @@
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out the Flask_testcases_visualation. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
@@ -21,13 +21,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -179,21 +179,27 @@ Project Link: [https://github.com/XaniXxable/Flask_testcases_visualation](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Flask_testcases_visualation](https://github.com/othneildrew/Best-README-Template)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
-[contributors-url]: https://github.com/XaniXxable/Flask_testcases_visualation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
-[forks-url]: https://github.com/XaniXxable/Flask_testcases_visualation/network/members
-[stars-shield]: https://img.shields.io/github/stars/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
-[stars-url]: https://github.com/XaniXxable/Flask_testcases_visualation/stargazers
-[issues-shield]: https://img.shields.io/github/issues/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
-[issues-url]: https://github.com/XaniXxable/Flask_testcases_visualation/issues
-[license-shield]: https://img.shields.io/github/license/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
-[license-url]: https://github.com/XaniXxable/Flask_testcases_visualation/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/XaniXxable/GitRunnerFlask?style=for-the-badge
+[contributors-url]: https://github.com/xanixxable/Flask_testcases_visualation/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/XaniXxable/GitRunnerFlask?style=social
+[forks-url]: https://github.com/xanixxable/Flask_testcases_visualation/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/XaniXxable/GitRunnerFlask?style=social
+[stars-url]: https://github.com/xanixxable/Flask_testcases_visualation/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues-raw/XaniXxable/GitRunnerFlask?style=for-the-badge
+[issues-url]: https://github.com/xanixxable/Flask_testcases_visualation/issues
+
+[license-shield]: https://img.shields.io/github/license/XaniXxable/GitRunnerFlask?style=for-the-badge
+[license-url]: https://github.com/xanixxable/Flask_testcases_visualation/blob/master/LICENSE.txt?raw=true
+
+
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
 <!-- [linkedin-url]: https://linkedin.com/in/XaniXxable -->
