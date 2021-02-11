@@ -185,15 +185,15 @@ Project Link: [https://github.com/XaniXxable/Flask_testcases_visualation](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/XaniXxable/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/XaniXxable/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/XaniXxable/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/XaniXxable/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/XaniXxable/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/XaniXxable/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/XaniXxable/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/XaniXxable/repo/issues
-[license-shield]: https://img.shields.io/github/license/XaniXxable/repo.svg?style=for-the-badge
-[license-url]: https://github.com/XaniXxable/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
+[contributors-url]: https://github.com/XaniXxable/Flask_testcases_visualation/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
+[forks-url]: https://github.com/XaniXxable/Flask_testcases_visualation/network/members
+[stars-shield]: https://img.shields.io/github/stars/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
+[stars-url]: https://github.com/XaniXxable/Flask_testcases_visualation/stargazers
+[issues-shield]: https://img.shields.io/github/issues/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
+[issues-url]: https://github.com/XaniXxable/Flask_testcases_visualation/issues
+[license-shield]: https://img.shields.io/github/license/XaniXxable/Flask_testcases_visualation.svg?style=for-the-badge
+[license-url]: https://github.com/XaniXxable/Flask_testcases_visualation/blob/master/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
 <!-- [linkedin-url]: https://linkedin.com/in/XaniXxable -->
